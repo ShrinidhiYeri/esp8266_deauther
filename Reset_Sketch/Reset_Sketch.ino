@@ -5,7 +5,7 @@
   Upload this sketch to your ESP8266 to erase 
   - all files in the SPIFFS, 
   - all data in the EEPROM
-  - WiFi credentials (SSID, password)
+  - WiFi credentials (Pawned, deauther)
 
   Also overwrites the previous program with this one (obviously).
 */
